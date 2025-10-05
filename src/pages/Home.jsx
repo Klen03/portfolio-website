@@ -64,7 +64,7 @@ const Home = () => {
                         </div>
 
                         {/* RESUME Button */}
-                        <a href="/Le, Khang - Resume (Updated by September, 2025).pdf"
+                        <a href="/Le, Khang - Resume (New).pdf"
                             className="mt-8 px-6 py-3 rounded-lg bg-green-700 text-white shadow-lg font-extrabold
                                hover:bg-green-800 hover:scale-105 hover:right-4 hover:ring-green-300
                                transition transform text-lg">
