@@ -150,6 +150,10 @@
   100% { transform: translateY(150%); opacity: 0; }
 }
 
+.white-space-pre-line {
+  white-space: pre-line;
+}
+
 .scanwave-effect::before {
   content:"";
   position: absolute;
