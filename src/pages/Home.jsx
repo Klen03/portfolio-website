@@ -419,7 +419,7 @@ const Home = () => {
 The app aims to empower middle school, high school, and college students by providing proactive guidance on academic planning, extracurricular involvement, and college preparation — helping them “stay ahead of the game.”
 Inspired by personal experience, the project focuses on bridging information gaps, fostering belonging, and offering culturally aware mentorship for new immigrants.
                             </p>
-                            <p className="text-gray-700"><span className="font-bold text-green-900 underline">Impact:</span> To create a digital resource that enables immigrant students to discover opportunities earlier, plan their futures confidently, and feel supported throughout their education journey.</p>
+                            <p className="text-gray-700"><span className="font-bold text-green-900 underline">Impact:</span> <span className="font-semibold text-green-700 italic">(Projected)</span> To create a digital resource that enables immigrant students to discover opportunities earlier, plan their futures confidently, and feel supported throughout their education journey.</p>
                         </div>
                     </a>
                 </div>
