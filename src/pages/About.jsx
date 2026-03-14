@@ -45,6 +45,8 @@ const Home = () => {
             {/* View Resume in the Center */}
             <a
                 href="/Khang-Le-Resume-Feb-2026.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="border-2 border-white dark:border-teal-400
                             px-6 py-3 rounded-full font-bold
                             bg-white text-black dark:bg-gray-900 dark:text-gray-200
