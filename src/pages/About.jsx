@@ -44,7 +44,7 @@ const Home = () => {
 
             {/* View Resume in the Center */}
             <a
-                href="/Le, Khang - Resume.pdf"
+                href="/Le, Khang - Resume - Updated by February 2026.pdf"
                 className="border-2 border-white dark:border-teal-400
                             px-6 py-3 rounded-full font-bold
                             bg-white text-black dark:bg-gray-900 dark:text-gray-200
